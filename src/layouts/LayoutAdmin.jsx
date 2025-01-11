@@ -1,9 +1,10 @@
+import Navbar from '@/components/navbar/Navbar'
 import React from 'react'
 
 function LayoutAdmin() {
     return (
         <div>
-            <h1>Navbar</h1>
+            <Navbar />
             <Outlet />
         </div>
     )
