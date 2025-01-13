@@ -11,7 +11,9 @@ function Navbar() {
                 <SearchBar />
                 <DropdownListMenu />
             </div>
+            <hr />
         </nav>
+
     )
 }
 

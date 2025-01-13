@@ -1,9 +1,10 @@
 import React from 'react'
+import { CircleUserRound } from 'lucide-react';
+
 
 function UserIcon() {
     return (
-        <div>UserIcon</div>
-    )
+        <CircleUserRound />)
 }
 
 export default UserIcon
